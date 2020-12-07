@@ -1,0 +1,13 @@
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.exe.config
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.exe
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.pdb
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.csprojResolveAssemblyReference.cache
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.exe
+J:\Tóth Zsombor\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.pdb
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.exe.config
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.exe
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\bin\Debug\Lézerlövészet.pdb
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.exe
+C:\Users\tothz\Desktop\Lézerlövészet\Lézerlövészet\obj\Debug\Lézerlövészet.pdb

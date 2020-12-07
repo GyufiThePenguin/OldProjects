@@ -1,0 +1,17 @@
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.exe.config
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.exe
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.pdb
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.Form1.resources
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.Properties.Resources.resources
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.csproj.GenerateResource.Cache
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.exe
+J:\Tóth Zsombor\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.pdb
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.exe.config
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.exe
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\bin\Debug\UdpKuldes.pdb
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.Form1.resources
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.Properties.Resources.resources
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.exe
+C:\Users\tothz\Desktop\UdpKuldes\UdpKuldes\obj\Debug\UdpKuldes.pdb

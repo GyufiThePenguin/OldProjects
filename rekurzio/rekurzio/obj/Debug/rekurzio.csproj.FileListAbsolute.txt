@@ -1,0 +1,7 @@
+C:\Users\Suli\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.exe.config
+C:\Users\Suli\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.exe
+C:\Users\Suli\source\repos\rekurzio\rekurzio\bin\Debug\rekurzio.pdb
+C:\Users\Suli\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.csprojAssemblyReference.cache
+C:\Users\Suli\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.csproj.CoreCompileInputs.cache
+C:\Users\Suli\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.exe
+C:\Users\Suli\source\repos\rekurzio\rekurzio\obj\Debug\rekurzio.pdb

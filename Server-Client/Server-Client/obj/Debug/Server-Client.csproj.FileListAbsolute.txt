@@ -1,0 +1,18 @@
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server-Client.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server_Client.Form1.resources
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server_Client.Properties.Resources.resources
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server-Client.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server-Client.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Server-Client\Server-Client\bin\Debug\Server-Client.exe.config
+C:\Users\tothz\Desktop\Server-Client\Server-Client\bin\Debug\Server-Client.exe
+C:\Users\tothz\Desktop\Server-Client\Server-Client\bin\Debug\Server-Client.pdb
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server-Client.exe
+C:\Users\tothz\Desktop\Server-Client\Server-Client\obj\Debug\Server-Client.pdb
+D:\Fájlok\C# Codes\Server-Client\Server-Client\bin\Debug\Server-Client.exe.config
+D:\Fájlok\C# Codes\Server-Client\Server-Client\bin\Debug\Server-Client.exe
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server_Client.Form1.resources
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server_Client.Properties.Resources.resources
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server-Client.csproj.GenerateResource.cache
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server-Client.csproj.CoreCompileInputs.cache
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server-Client.exe
+D:\Fájlok\C# Codes\Server-Client\Server-Client\obj\Debug\Server-Client.pdb

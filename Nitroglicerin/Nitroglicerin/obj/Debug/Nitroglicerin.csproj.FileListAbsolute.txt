@@ -1,0 +1,7 @@
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\bin\Debug\Nitroglicerin.exe.config
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\bin\Debug\Nitroglicerin.exe
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\bin\Debug\Nitroglicerin.pdb
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\obj\Debug\Nitroglicerin.csprojResolveAssemblyReference.cache
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\obj\Debug\Nitroglicerin.csproj.CoreCompileInputs.cache
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\obj\Debug\Nitroglicerin.exe
+C:\Users\nt\source\repos\Nitroglicerin\Nitroglicerin\obj\Debug\Nitroglicerin.pdb

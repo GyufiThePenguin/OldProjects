@@ -1,0 +1,13 @@
+C:\Users\tothz\Desktop\Sakk\Sakk\obj\Debug\Sakk.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\Sakk\Sakk\obj\Debug\Sakk.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Sakk\Sakk\bin\Debug\Sakk.exe.config
+C:\Users\tothz\Desktop\Sakk\Sakk\bin\Debug\Sakk.exe
+C:\Users\tothz\Desktop\Sakk\Sakk\bin\Debug\Sakk.pdb
+C:\Users\tothz\Desktop\Sakk\Sakk\obj\Debug\Sakk.exe
+C:\Users\tothz\Desktop\Sakk\Sakk\obj\Debug\Sakk.pdb
+C:\Users\Suli\Desktop\Sakk\Sakk\bin\Debug\Sakk.exe.config
+C:\Users\Suli\Desktop\Sakk\Sakk\obj\Debug\Sakk.exe
+C:\Users\Suli\Desktop\Sakk\Sakk\obj\Debug\Sakk.pdb
+C:\Users\Suli\Desktop\Sakk\Sakk\bin\Debug\Sakk.exe
+C:\Users\Suli\Desktop\Sakk\Sakk\bin\Debug\Sakk.pdb
+C:\Users\Suli\Desktop\Sakk\Sakk\obj\Debug\Sakk.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.exe.config
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.exe
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.pdb
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.csprojResolveAssemblyReference.cache
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP_fogadás.Form1.resources
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP_fogadás.Properties.Resources.resources
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.csproj.GenerateResource.Cache
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.exe
+J:\Tóth Zsombor\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.pdb
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.exe.config
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.exe
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\bin\Debug\UDP fogadás.pdb
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP_fogadás.Form1.resources
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP_fogadás.Properties.Resources.resources
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.exe
+C:\Users\tothz\Desktop\UDP fogadás\UDP fogadás\obj\Debug\UDP fogadás.pdb

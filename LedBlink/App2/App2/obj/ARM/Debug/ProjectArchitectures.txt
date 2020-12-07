@@ -1,0 +1,1 @@
+C:\Users\tothz\Desktop\LedBlink\App2\App2\App2.csproj;arm

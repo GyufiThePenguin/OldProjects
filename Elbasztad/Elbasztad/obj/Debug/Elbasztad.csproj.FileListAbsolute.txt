@@ -1,0 +1,22 @@
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\bin\Debug\Elbasztad.exe.config
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\bin\Debug\Elbasztad.exe
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\bin\Debug\Elbasztad.pdb
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Form1.resources
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Properties.Resources.resources
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csproj.GenerateResource.cache
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.exe
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.pdb
+C:\Users\tothz\Desktop\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Form2.resources
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\bin\Debug\Elbasztad.exe.config
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\bin\Debug\Elbasztad.exe
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\bin\Debug\Elbasztad.pdb
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Form1.resources
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Form2.resources
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.Properties.Resources.resources
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csproj.GenerateResource.cache
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.exe
+C:\Users\tothz\Desktop\C# Codes\Elbasztad\Elbasztad\obj\Debug\Elbasztad.pdb

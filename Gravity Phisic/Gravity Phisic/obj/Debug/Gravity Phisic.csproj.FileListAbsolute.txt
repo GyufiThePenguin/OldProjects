@@ -1,0 +1,10 @@
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\bin\Debug\Gravity Phisic.exe.config
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\bin\Debug\Gravity Phisic.exe
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\bin\Debug\Gravity Phisic.pdb
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity Phisic.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity_Phisic.Form1.resources
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity_Phisic.Properties.Resources.resources
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity Phisic.csproj.GenerateResource.cache
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity Phisic.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity Phisic.exe
+C:\Users\tothz\Desktop\Gravity Phisic\Gravity Phisic\obj\Debug\Gravity Phisic.pdb

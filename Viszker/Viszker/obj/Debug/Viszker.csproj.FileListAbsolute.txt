@@ -1,0 +1,7 @@
+C:\Users\nt\source\repos\Viszker\Viszker\obj\Debug\Viszker.csprojResolveAssemblyReference.cache
+C:\Users\nt\source\repos\Viszker\Viszker\obj\Debug\Viszker.csproj.CoreCompileInputs.cache
+C:\Users\nt\source\repos\Viszker\Viszker\bin\Debug\Viszker.exe.config
+C:\Users\nt\source\repos\Viszker\Viszker\bin\Debug\Viszker.exe
+C:\Users\nt\source\repos\Viszker\Viszker\bin\Debug\Viszker.pdb
+C:\Users\nt\source\repos\Viszker\Viszker\obj\Debug\Viszker.exe
+C:\Users\nt\source\repos\Viszker\Viszker\obj\Debug\Viszker.pdb

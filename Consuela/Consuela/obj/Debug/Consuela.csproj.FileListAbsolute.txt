@@ -1,0 +1,11 @@
+C:\Users\tothz\Desktop\Consuela\Consuela\bin\Debug\Consuela.exe.config
+C:\Users\tothz\Desktop\Consuela\Consuela\bin\Debug\Consuela.exe
+C:\Users\tothz\Desktop\Consuela\Consuela\bin\Debug\Consuela.pdb
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.Properties.Resources.resources
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.exe
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.pdb
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.fr_load.resources
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.foform.resources
+C:\Users\tothz\Desktop\Consuela\Consuela\obj\Debug\Consuela.csproj.CoreCompileInputs.cache

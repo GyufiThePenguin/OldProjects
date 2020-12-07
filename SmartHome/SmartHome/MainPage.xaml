@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="SmartHome.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SmartHome"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="600">
+    <Page.Resources>
+        <x:Boolean x:Key="ImageIsTapEnabled1">False</x:Boolean>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,-1170,-689">
+        <Image x:Name="pb_hatter" HorizontalAlignment="Left" Height="600" Margin="0,0,0,0" VerticalAlignment="Top" Width="1024" Source="Assets/hatter.png" RenderTransformOrigin="0.495,0.492" FocusVisualPrimaryBrush="White"/>
+        <Image x:Name="pb_Biztonsag" HorizontalAlignment="Left" Height="97" Margin="835,11,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/Biztonsag.png"/>
+        <Image x:Name="pb_Hofok" HorizontalAlignment="Left" Height="94" Margin="923,11,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/Hofok.png"/>
+        <Image x:Name="pb_Idozito" HorizontalAlignment="Left" Height="97" Margin="880,88,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/Idozito.png"/>
+        <Image x:Name="pb_Attekinto" HorizontalAlignment="Left" Height="149" Margin="857,228,0,0" VerticalAlignment="Top" Width="129" Source="Assets/Ikonok/Attekinto.png"/>
+        <Image x:Name="pb_NincsKesz1" HorizontalAlignment="Left" Height="97" Margin="880,416,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/NincsKesz.png"/>
+        <Image x:Name="pb_NincsKesz2" HorizontalAlignment="Left" Height="97" Margin="835,492,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/NincsKesz.png"/>
+        <Image x:Name="pb_Beallitas" HorizontalAlignment="Left" Height="97" Margin="923,493,0,0" VerticalAlignment="Top" Width="84" Source="Assets/Ikonok/Beallitas.png" IsTapEnabled="{StaticResource ImageIsTapEnabled1}" ManipulationMode="System"/>
+        <Button x:Name="bt_Hofok" Content="bt_Hofok" HorizontalAlignment="Left" Height="61" Margin="922,27,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_Hofok_Click"/>
+        <Button x:Name="bt_Biztonsag" Content="bt_Biztonsag" HorizontalAlignment="Left" Height="61" Margin="836,26,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_Biztonsag_Click" RenderTransformOrigin="0.53,0.574"/>
+        <Button x:Name="bt_Idozito" Content="bt_Idozito" HorizontalAlignment="Left" Height="61" Margin="880,108,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_Idozito_Click"/>
+        <Button x:Name="bt_Attekinto" Content="bt_Attekinto" HorizontalAlignment="Left" Height="97" Margin="854,254,0,0" VerticalAlignment="Top" Width="132" Opacity="0" Click="bt_Attekinto_Click"/>
+        <Button x:Name="bt_Beallitas" Content="bt_Beallitas" HorizontalAlignment="Left" Height="61" Margin="924,512,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_Beallitas_Click"/>
+        <Button x:Name="bt_NincsKesz2" Content="ANincsKeszSD" HorizontalAlignment="Left" Height="61" Margin="880,433,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_NincsKesz_Click"/>
+        <Button x:Name="bt_NincsKesz3" Content="NincsKesz" HorizontalAlignment="Left" Height="61" Margin="837,513,0,0" VerticalAlignment="Top" Width="83" Opacity="0" Click="bt_NincsKesz2_Click"/>
+        <TextBlock x:Name="tb_ora" HorizontalAlignment="Left" Margin="10,6,0,0" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White"/>
+        <StackPanel HorizontalAlignment="Left" Height="247" Margin="637,77,0,0" VerticalAlignment="Top" Width="125">
+            <Image HorizontalAlignment="Left" Height="81" Margin="21,0,0,0" Width="105"/>
+            <Image x:Name="pb_Celsius" HorizontalAlignment="Left" Height="89" Margin="0,0,0,0" VerticalAlignment="Top" Width="96" Source="Assets/Rendszerikonok/Celsius.png"/>
+            <Image HorizontalAlignment="Left" Height="89" Margin="71,0,0,0" Width="112"/>
+        </StackPanel>
+
+
+
+    </Grid>
+</Page>

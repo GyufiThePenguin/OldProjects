@@ -1,0 +1,10 @@
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\bin\Debug\SmartHome Krertrendszer proba.exe.config
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\bin\Debug\SmartHome Krertrendszer proba.exe
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\bin\Debug\SmartHome Krertrendszer proba.pdb
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome Krertrendszer proba.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome_Krertrendszer_proba.Form1.resources
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome_Krertrendszer_proba.Properties.Resources.resources
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome Krertrendszer proba.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome Krertrendszer proba.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome Krertrendszer proba.exe
+C:\Users\tothz\Desktop\SmartHome Krertrendszer proba\SmartHome Krertrendszer proba\obj\Debug\SmartHome Krertrendszer proba.pdb

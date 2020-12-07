@@ -1,0 +1,39 @@
+C:\Users\tothz\Desktop\HF\HF\bin\Debug\HF.exe.config
+C:\Users\tothz\Desktop\HF\HF\bin\Debug\HF.exe
+C:\Users\tothz\Desktop\HF\HF\bin\Debug\HF.pdb
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.Form1.resources
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.Properties.Resources.resources
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.exe
+C:\Users\tothz\Desktop\HF\HF\obj\Debug\HF.pdb
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.exe.config
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.exe
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.pdb
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.Form1.resources
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.Properties.Resources.resources
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.exe
+C:\Users\tothz\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.pdb
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.exe.config
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.exe
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.pdb
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.exe
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\bin\Debug\HF.pdb
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.csprojResolveAssemblyReference.cache
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.Form1.resources
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.Properties.Resources.resources
+C:\Users\Suli\Desktop\HF GUI v.1.0\HF\obj\Debug\HF.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\bin\Debug\HF.exe.config
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\bin\Debug\HF.exe
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\bin\Debug\HF.pdb
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.csprojResolveAssemblyReference.cache
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.Form1.resources
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.Properties.Resources.resources
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.csproj.GenerateResource.Cache
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.exe
+C:\Users\tothz\Desktop\Tóth Zsombor HF (GUI v.1.1)\HF\obj\Debug\HF.pdb

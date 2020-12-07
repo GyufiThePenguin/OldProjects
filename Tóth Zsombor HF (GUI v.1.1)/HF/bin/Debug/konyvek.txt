@@ -1,0 +1,64 @@
+﻿3600 5
+Ballagó idő
+1200 12
+Szamárfül
+2200 3
+Egyiptom
+1000 5
+A kisgömböc
+2500 4
+A boldogtalan Villon boldog napjai
+2700 3
+A szerelem töténete
+1500 4
+Aranyecset
+2100 10
+A nap szerelmese
+900 4
+Három ember egy csónakban
+2200 5
+Ember és kutya
+4000 3
+Nagyvárosi természetbúvár
+3200 2
+Az ókor története
+1200 5
+Vuk
+2700 4
+Ragyogás
+3100 2
+Nincs királyi út
+2500 3
+Nils Holgersson csodálatos utazása
+1200 4
+Rokonok
+2800 4
+A végső ütközet
+1800 3
+Volt egy farmom Afrikában
+5000 0
+Leonardo Összes festménye
+2100 1
+Via Mala
+1300 0
+Fekete város
+2600 3
+Úri muri
+2800 0
+A kis herceg
+1900 23
+Koldus és királyfi
+2500 0
+Légy jó mindhalálig
+1300 5
+Norbi update zsebkönyv
+2500 3
+Száll a kakukk fészkére
+1500 1
+A Pál utcai fiúk
+2000 0
+Csendes Don
+4000 3
+Háború és béke
+4200 1
+A Thibauld család

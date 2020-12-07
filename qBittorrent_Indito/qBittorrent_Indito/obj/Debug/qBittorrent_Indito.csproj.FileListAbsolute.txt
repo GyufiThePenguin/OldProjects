@@ -1,0 +1,7 @@
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\obj\Debug\qBittorrent_Indito.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\obj\Debug\qBittorrent_Indito.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\bin\Debug\qBittorrent_Indito.exe.config
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\bin\Debug\qBittorrent_Indito.exe
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\bin\Debug\qBittorrent_Indito.pdb
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\obj\Debug\qBittorrent_Indito.exe
+C:\Users\tothz\Desktop\qBittorrent_Indito\qBittorrent_Indito\obj\Debug\qBittorrent_Indito.pdb

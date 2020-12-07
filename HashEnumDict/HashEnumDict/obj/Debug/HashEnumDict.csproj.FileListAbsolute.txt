@@ -1,0 +1,15 @@
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\bin\Debug\HashEnumDict.exe.config
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\bin\Debug\HashEnumDict.exe
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\bin\Debug\HashEnumDict.pdb
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.csprojAssemblyReference.cache
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Form1.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Properties.Resources.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.csproj.GenerateResource.cache
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.csproj.CoreCompileInputs.cache
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.exe
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.pdb
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Feladat2.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Feladat3.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Feladat4.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Feladat5.resources
+C:\Users\tothz\Desktop\HashEnumDict\HashEnumDict\obj\Debug\HashEnumDict.Feladat6.resources
